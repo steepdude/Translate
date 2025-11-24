@@ -1,0 +1,19 @@
+# Maven
+target/
+.m2/
+
+# IDE  
+.idea/
+*.iml
+*.iws
+
+# Build files
+*.jar
+*.war
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
