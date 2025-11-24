@@ -1,0 +1,6 @@
+name: Translate
+main: cn.tendlex.translate.Translate
+version: 1.0
+api: 1.0.0
+author: Deyson4ik
+description: Translate
